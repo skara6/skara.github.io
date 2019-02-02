@@ -1,2 +1,2 @@
-# skara.github.io
+# skara6.github.io
 Learning Github pages!
